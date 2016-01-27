@@ -1,0 +1,17 @@
+.titulo{
+	color: white!important;
+}
+
+.logoBox{
+	width: 100%;
+	text-align: center;
+	padding-top: 120px;
+}
+.logoBox img{
+	width: 170px;
+}
+.capaheader{
+	height: 100vh;
+	width: 100%;
+	background-color: rgba(0,0,0,.5);
+}
