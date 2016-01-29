@@ -212,6 +212,7 @@ header {
     bottom: 0;
 }
 .video-container video.fillWidth {
+    position: absolute !important;
     width: 100%;
 }
 }
